@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="eb05c91c-a2d4-49b5-bb6e-d125fc780810" name="centos">
+        <fileTransfer rootFolder="/data/pyt/mymec" accessType="SFTP" host="192.168.247.81" port="22" sshConfigId="b2717ad9-3ace-45a6-b899-5b6477d3bf0e" sshConfig="root@192.168.247.81:22 password">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

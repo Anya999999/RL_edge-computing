@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/论文/对比算法-边缘计算/LiYangCode/.idea/LiYangCode.iml" filepath="E:/论文/对比算法-边缘计算/LiYangCode/.idea/LiYangCode.iml" />
+      <module fileurl="file://E:/EdgeComputingCode/MP-DQN-master/.idea/MP-DQN-master.iml" filepath="E:/EdgeComputingCode/MP-DQN-master/.idea/MP-DQN-master.iml" />
+      <module fileurl="file://E:/EdgeComputingCode/MultiCloudService/.idea/MultiCloudService.iml" filepath="E:/EdgeComputingCode/MultiCloudService/.idea/MultiCloudService.iml" />
+      <module fileurl="file://E:/MADDPG_cloud pricing/maddpg_CloudpriceMM/maddpg_CloudpriceMM/.idea/maddpg_Cloudprice.iml" filepath="E:/MADDPG_cloud pricing/maddpg_CloudpriceMM/maddpg_CloudpriceMM/.idea/maddpg_Cloudprice.iml" />
+      <module fileurl="file://E:/MADDPG_cloud pricing/maddpg_CloudpriceMM/.idea/maddpg_CloudpriceMM.iml" filepath="E:/MADDPG_cloud pricing/maddpg_CloudpriceMM/.idea/maddpg_CloudpriceMM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../multi_mec3/.idea/multi_mec0.iml" filepath="$PROJECT_DIR$/../multi_mec3/.idea/multi_mec0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/my_mec.iml" filepath="$PROJECT_DIR$/.idea/my_mec.iml" />
+    </modules>
+  </component>
+</project>
